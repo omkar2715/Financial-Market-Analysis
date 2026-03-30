@@ -33,8 +33,7 @@ After running the analysis, you will see visualizations and results that can be 
 ## Contributing
 We welcome contributions from the community. Please fork the repository and submit your pull requests.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ## Acknowledgments
 - Inspiration taken from various resources in the financial analysis domain.
